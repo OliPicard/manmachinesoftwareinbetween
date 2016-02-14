@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="manmachinesoftwareinbetween.com" resolutions="1x" timestamp="1455229843690">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="manmachinesoftwareinbetween.com" resolutions="1x" timestamp="1455476371568">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="116751961" ref="index"/>
@@ -7,18 +7,18 @@
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
     <file name="museutils.js" crc="4190794036" ref="index"/>
     <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="health.jpg" crc="4208736964" seo="true" ref="index"/>
     <file name="mmsiforweb.gif" crc="4105626469" seo="true" ref="index"/>
-    <file name="u87-6.png" crc="113752275" ref="index"/>
-    <file name="u93-5.png" crc="70543777" ref="index"/>
+    <file name="u87-6.png" crc="4057487850" ref="index"/>
+    <file name="u93-5.png" crc="394219950" ref="index"/>
     <file name="u91-5.png" crc="407748923" ref="index"/>
     <file name="u95-5.png" crc="3955403351" ref="index"/>
     <file name="u97-5.png" crc="4141121376" ref="index"/>
     <file name="u157-55.png" crc="473796436" ref="index"/>
+    <file name="health.jpg" crc="4208736964" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3868443445" seo="true" mt="1455229772778" redirect="true"/>
+  <file name="index.html" crc="325692314" seo="true" mt="1455476245608" redirect="true"/>
 </manifest>
